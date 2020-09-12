@@ -120,5 +120,8 @@
       }
     }
   },
-  "defaultProject": "ngCart"
+  "defaultProject": "ngCart",
+  "cli": {
+    "analytics": "aa7de744-df24-4678-82e0-9ebc84335de9"
+  }
 }
